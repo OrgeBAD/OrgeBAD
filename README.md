@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OrgeBAD
+- 👀 I’m interested in learning things abt info ?
+- 🌱 I’m currently learning html css js
